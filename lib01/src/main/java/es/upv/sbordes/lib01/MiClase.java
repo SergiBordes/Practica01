@@ -15,7 +15,9 @@ public class MiClase {
         p.add(new Alumno("Sergi", 20, 0));
 
         for (Persona x:p){
+
             x.mostrar();
+
         }
 // prueba
         /*
@@ -48,7 +50,7 @@ public class MiClase {
         */
 
 
-        /** PRUEBAS
+        /* PRUEBAS
 
          //CON ARRAYS BASICOS
         String a[] = {"Hola", "mundo"};
@@ -72,7 +74,7 @@ public class MiClase {
         }
 
         System.out.println(b);
-         **/
+         */
 
 
     }
