@@ -24,6 +24,7 @@ public class MiClase {
         
 // prueba
 // prueba 2
+// Prueba desde PC de Casa
         
         /*
         Random r = new Random();
