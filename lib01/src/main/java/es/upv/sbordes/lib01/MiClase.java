@@ -19,7 +19,10 @@ public class MiClase {
             x.mostrar();
 
         }
+        
 // prueba
+// prueba 2
+        
         /*
         Random r = new Random();
         r.nextDouble();
