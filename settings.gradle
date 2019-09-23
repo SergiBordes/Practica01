@@ -1,0 +1,2 @@
+include ':app', ':lib01'
+rootProject.name='Practica01'
