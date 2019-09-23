@@ -9,6 +9,8 @@ public class MiClase {
 
     public static void main(String[] args) {
 
+        System.out.println("HELLO WORLD!");
+
         ArrayList<Persona> p = new ArrayList<>();
         p.add(new Persona("Sergi", 20));
         p.add(new Profesor("Andres", 45, "IOT"));
