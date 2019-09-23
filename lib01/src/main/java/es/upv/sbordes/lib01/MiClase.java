@@ -17,7 +17,7 @@ public class MiClase {
         for (Persona x:p){
             x.mostrar();
         }
-
+// prueba
         /*
         Random r = new Random();
         r.nextDouble();
